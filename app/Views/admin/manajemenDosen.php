@@ -2,7 +2,7 @@
 
 <?php $this->section('content'); ?>
 
-<h1 class="text-3xl font-bold mt-10 mb-6">Manajemen Bimbingan</h1>
+<h1 class="text-3xl font-bold mt-20 mb-6">Manajemen Bimbingan</h1>
 
 <!-- Tab untuk Online / Offline -->
 <div class="flex space-x-6 mb-6">
